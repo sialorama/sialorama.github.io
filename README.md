@@ -1,3 +1,3 @@
 # sialorama.github.io
 
-[sialorama.github.io]('https://sialorama.github.io/')
+[link]('https://sialorama.github.io/')
